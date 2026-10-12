@@ -1,0 +1,58 @@
+{
+  "mode": "live",
+  "version": 1,
+  "name": "Gumball Drop #7",
+  "network": "mainnet-beta",
+  "turn": 7,
+  "engineWallet": "HYkcD33zpBFnyhH2WDCW9sgTn6NYigZvAYZJibwnWU2q",
+  "list": [
+    "2pYpJpJ23wQMNsKyMW53wZAk541zcVq28YJjg9uiRANk",
+    "35ULHpsCkGHgwtu49MDKY5N6GNdtbaZ1aDStrxbwBoUT",
+    "3uQuGy8t8U3nZnAqQYMMaYqTqzGMTvn3EyDcpyAaAe48",
+    "42zDfBgFTNEvBxGmFQMrijai11B4fqdNsHSXzDayafKQ",
+    "4Lkp3aTMcXMjC8YS7qJQJhQUnqijq6FKQ9uRY5X6qM8d",
+    "4TvVA3RLhbiUYS2xxbNYiXZx1GKVWYJf8ECoFeu9qP4N",
+    "5h6vfBStaUDex68rTSh4fD3DK9ZS2ngjBXf9CAFpJ51x",
+    "6Qz5YefZrPYA3c8FfQYuwQJrE5JvfxG6KtggZCYYT6Jg",
+    "7cw3qHJR9VJwo6576oP7GGXfHC3bGXnbbYKCqK8qmdZd",
+    "83oRdzzqDR7yrytLAe7niE3GUWE1Mest8BApzmoGh9vn",
+    "8NSpijbJbSWEW4Pvzx9PBMzX2mFLxxiqzb38BzYV9Bd5",
+    "AwN9bhAcX3mr7Dpyxtsm4kBUEW3A3k7zsw4YZZH5UC77",
+    "BKtiUNDvrFDEkdr5ntEk8aQGWTjB3H8wkfL69AXboqYJ",
+    "CmvUeGNfbkESX62ordyqwPGHVoQAm3PEiG5Vvf36Y2UQ",
+    "CoogJKZGNBL7JEXXzriHVNiW3ufXjEm2SJ2WdTHTfX9t",
+    "Dh5ZmPw2j9GJg7kMMoW3ZzrwjJtsd9tZk8Hrvxh62Gs6",
+    "E4SEuZB6uxbH1XdcwLuhrkGbEkBv9q16Rv74MrYxAhRf",
+    "EqDHdSjS1MiTvpfxhEVyV1ZyaDcK1MgUtF3xDo6a2YaR",
+    "FSKWXdyaRETcU25fz6x58g6GR8gWEYzFJmrSLQsfCwzS",
+    "Fe3w1o6bybBmxDuLF6BnLeccyLYkTBvRbJAbzZsJaYMw",
+    "GLEcDJySsqwSzef1wewNokyL8YGAme8fk9pcMZ8AUzxg",
+    "GrsQCBZz6k2CgAdyvP2yacFfJGYo13WFLwjw6gmcHuA5",
+    "HeFFG7Ec8sW3DJ1ESUM4syBNDNXBuX2p8Zafm8taxLqj",
+    "HsX8gko7aRMXLCYV776nZWQAv7xhLwsp1rJYJMB6g8Kk",
+    "Ht1NngHjMN4opjVAM69oTWCXJPHnhpbryEANVxwt8uNS"
+  ],
+  "fingerprint": "bbd022bf39198a293f5c47d11b63993e93c9eba005007d42c6a606a78ab4cfaf",
+  "commitment": {
+    "signature": "2ZbGXtHdzwddpeAVC5ui2KNu58uc8rBtfKs3CPvgdRtCuW8oj25Bmeqdcuiu8hCwVsdMaJupEJ8HSjq1TMhzbQh7",
+    "slot": 400000000,
+    "memo": "GUMBALL Drop #7 list: bbd022bf39198a293f5c47d11b63993e93c9eba005007d42c6a606a78ab4cfaf"
+  },
+  "seed": {
+    "slot": 400000033,
+    "blockhash": "CUDh2JBFUD77Mn6zqrwnBn58aXW2nKbCmSuYYcTUixnX"
+  },
+  "winners": [
+    "7cw3qHJR9VJwo6576oP7GGXfHC3bGXnbbYKCqK8qmdZd",
+    "Fe3w1o6bybBmxDuLF6BnLeccyLYkTBvRbJAbzZsJaYMw",
+    "GLEcDJySsqwSzef1wewNokyL8YGAme8fk9pcMZ8AUzxg",
+    "HsX8gko7aRMXLCYV776nZWQAv7xhLwsp1rJYJMB6g8Kk",
+    "4Lkp3aTMcXMjC8YS7qJQJhQUnqijq6FKQ9uRY5X6qM8d",
+    "5h6vfBStaUDex68rTSh4fD3DK9ZS2ngjBXf9CAFpJ51x",
+    "EqDHdSjS1MiTvpfxhEVyV1ZyaDcK1MgUtF3xDo6a2YaR",
+    "83oRdzzqDR7yrytLAe7niE3GUWE1Mest8BApzmoGh9vn",
+    "35ULHpsCkGHgwtu49MDKY5N6GNdtbaZ1aDStrxbwBoUT",
+    "4TvVA3RLhbiUYS2xxbNYiXZx1GKVWYJf8ECoFeu9qP4N"
+  ],
+  "verifiable": true
+}

@@ -1,0 +1,2 @@
+# Keep the registered rules file byte for byte on every system.
+rules/public_rules.json -text

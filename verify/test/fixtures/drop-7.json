@@ -1,0 +1,81 @@
+{
+  "mode": "live",
+  "turn": 7,
+  "name": "Gumball Drop #7",
+  "status": "finished",
+  "completed": true,
+  "thresholdsFingerprint": "c3b6d876b9227fcffc0b5fc3a4f4021b24c94773f1c514467bf738d16c12f4a0",
+  "publicRulesFingerprint": "0aaa602b55bbd735b24a2bf33d9d12b379de894dc2a572f338d814c67437d39e",
+  "goldenNote": null,
+  "golden": {
+    "listSize": 25,
+    "listFingerprint": "bbd022bf39198a293f5c47d11b63993e93c9eba005007d42c6a606a78ab4cfaf",
+    "commitmentMemo": "GUMBALL Drop #7 list: bbd022bf39198a293f5c47d11b63993e93c9eba005007d42c6a606a78ab4cfaf",
+    "commitmentSignature": "2ZbGXtHdzwddpeAVC5ui2KNu58uc8rBtfKs3CPvgdRtCuW8oj25Bmeqdcuiu8hCwVsdMaJupEJ8HSjq1TMhzbQh7",
+    "commitmentSlot": 400000000,
+    "seedSlot": 400000033,
+    "seedBlockhash": "CUDh2JBFUD77Mn6zqrwnBn58aXW2nKbCmSuYYcTUixnX",
+    "winners": [
+      {
+        "rank": 1,
+        "wallet": "7cw3qHJR9VJwo6576oP7GGXfHC3bGXnbbYKCqK8qmdZd",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 2,
+        "wallet": "Fe3w1o6bybBmxDuLF6BnLeccyLYkTBvRbJAbzZsJaYMw",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 3,
+        "wallet": "GLEcDJySsqwSzef1wewNokyL8YGAme8fk9pcMZ8AUzxg",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 4,
+        "wallet": "HsX8gko7aRMXLCYV776nZWQAv7xhLwsp1rJYJMB6g8Kk",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 5,
+        "wallet": "4Lkp3aTMcXMjC8YS7qJQJhQUnqijq6FKQ9uRY5X6qM8d",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 6,
+        "wallet": "5h6vfBStaUDex68rTSh4fD3DK9ZS2ngjBXf9CAFpJ51x",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 7,
+        "wallet": "EqDHdSjS1MiTvpfxhEVyV1ZyaDcK1MgUtF3xDo6a2YaR",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 8,
+        "wallet": "83oRdzzqDR7yrytLAe7niE3GUWE1Mest8BApzmoGh9vn",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 9,
+        "wallet": "35ULHpsCkGHgwtu49MDKY5N6GNdtbaZ1aDStrxbwBoUT",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      },
+      {
+        "rank": 10,
+        "wallet": "4TvVA3RLhbiUYS2xxbNYiXZx1GKVWYJf8ECoFeu9qP4N",
+        "prizeLamports": "1000000",
+        "handling": "coin_jar"
+      }
+    ]
+  }
+}

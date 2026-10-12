@@ -1,0 +1,21 @@
+{
+  "name": "gumball-machine-verify",
+  "version": "1.0.0",
+  "description": "Check any Gumball Machine Drop yourself: the Golden draw and the registered rules. Read only.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "bin": {
+    "gumball-verify": "bin/verify.mjs"
+  },
+  "scripts": {
+    "verify": "node bin/verify.mjs",
+    "test": "node --test test/draw.test.mjs test/verify.test.mjs test/cli.test.mjs",
+    "fixtures": "node test/fixtures/make.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
